@@ -28,6 +28,3 @@ The program collects user information and demonstrates basic Python concepts.
 * Python
 * Jupyter Notebook
 * GitHub
-
-
-Heer Patel
